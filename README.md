@@ -6,8 +6,9 @@
 
 ## 기술 정보
 
+- Node.js
 - Next.js
-- Tailwind
+- Tailwindcss
 
 ### 시작하기
 
@@ -27,4 +28,14 @@ npx create-next-app@latest next-curd
 
 ```
 npm run dev
+```
+
+## 라이브러리
+
+- Mongoose : Node.js와 MongoDB를 연결하기 위한 라이브러리
+- React Icons : 다양한 아이콘을 쉽게 사용할 수 있는 라이브러리
+
+```bash
+npm i mongoose
+npm i react-icons
 ```
